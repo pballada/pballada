@@ -13,7 +13,7 @@
 - [**App Two**](https://github.com/yourusername/app-two) – A [brief description]
 -->
 
-📫 **Get in touch:** [LinkedIn](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/pau-ballada/)
+📫 **Get in touch:** [LinkedIn](https://linkedin.com/in/pballada)
 
 
 
